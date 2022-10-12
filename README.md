@@ -14,19 +14,19 @@ danawa에서 검색을 자주하는데, 항상 가격 리스트에서 클릭해�
 ![image](https://user-images.githubusercontent.com/55792553/195434125-a3dae8a7-3001-453c-9b8d-c20f18188115.png)        ![image](https://user-images.githubusercontent.com/55792553/195434221-ab2664d2-7793-4341-8ba1-a102d10c5d45.png)
 
 
-첫 진입 검색화면                                  splash화면
+가이드페이지 화면                                       첫진입 검색화면
 
 
 
-![image](https://user-images.githubusercontent.com/55792553/195434369-3fd0e7fd-c6a6-41e3-ac67-18550f725135.png)
+![image](https://user-images.githubusercontent.com/55792553/195434369-3fd0e7fd-c6a6-41e3-ac67-18550f725135.png)        ![image](https://user-images.githubusercontent.com/55792553/195434457-1b9fc840-eef5-40e7-95b2-57df3c470d1e.png)
 
 
-검색창 클릭하여 진입하는 검색창 화면
-
-![image](https://user-images.githubusercontent.com/55792553/195434457-1b9fc840-eef5-40e7-95b2-57df3c470d1e.png)
+검색창 클릭하여 진입하는 검색창 화면                     검색결과 화면
 
 
-검색결과 화면
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/55792553/195434500-c94bebab-d1cc-4d40-967e-fb4a34396ab8.png)
