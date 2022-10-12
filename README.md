@@ -1,7 +1,7 @@
 # crawlling-practice-app
 crawlling 연습 겸 간단하게 제작한 어플
 
-[TTC1018](https://github.com/TTC1018)
+[TTC1018](https://github.com/TTC1018)\
 [sus0985](https://github.com/sus0985)
 과 함께 만들었습니다.
 
