@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+                name="viewModel"
+                type="com.bed.android.bedrock.ui.search.SearchResultViewModel" />
+    </data>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="7dp"
+                android:background="?attr/colorOnPrimary"
+                android:outlineAmbientShadowColor="?attr/colorPrimary"
+                android:outlineSpotShadowColor="?attr/colorPrimary"
+                android:elevation="7dp">
+
+            <TextView
+                    android:id="@+id/search_keyword_textview"
+                    android:layout_width="300dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="left"
+                    android:layout_marginStart="10dp"
+                    android:fontFamily="@font/fontstyle"
+                    android:gravity="center_vertical"
+                    android:hint="search result"
+                    android:textSize="30sp"
+                    tools:ignore="RtlHardcoded" />
+
+            <TextView
+                    android:id="@+id/search_num_textview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:fontFamily="@font/fontstyle"
+                    android:hint="검색결과: 0개"
+                    android:textSize="12sp" />
+        </LinearLayout>
+
+        <com.facebook.shimmer.ShimmerFrameLayout
+                android:id="@+id/sfl_sample"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/loading" />
+
+            </FrameLayout>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/product_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:setSearchResultItems="@{viewModel.productList}">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </LinearLayout>
+
+</layout>

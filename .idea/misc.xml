@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1505" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/drawable/popular_keyword_bar.xml" value="0.314" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/drawable/search_btn_ripple.xml" value="0.1505" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/drawable/search_edittext.xml" value="0.204" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/drawable/splash.xml" value="0.178" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/font/fontstyle.xml" value="0.3296296296296296" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/activity_main.xml" value="0.26494427558257344" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/fragment_main.xml" value="0.26494427558257344" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/fragment_search.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/fragment_search_bar.xml" value="0.25" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/list_item_product.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/popular_keyword_bar.xml" value="0.1" />
+        <entry key="..\:/Users/param/Documents/GitHub/BedRock/app/src/main/res/layout/recent_search_row.xml" value="0.3109375" />
+        <entry key="..\:/kotlin/acw/BedRock/app/src/main/res/layout/activity_main.xml" value="0.3614583333333333" />
+        <entry key="..\:/kotlin/acw/Graduate/BedRock/app/src/main/res/layout/activity_main.xml" value="0.3614583333333333" />
+        <entry key="..\:/project/bedrock_title/BedRock/app/src/main/res/layout/fragment_detailtab_pricelist.xml" value="0.1125" />
+        <entry key="..\:/project/bedrock_title/BedRock/app/src/main/res/layout/list_item_price.xml" value="0.1" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/drawable/ic_launcher_background.xml" value="0.184" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/drawable/ic_splash_background.xml" value="0.1235" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/drawable/ic_splash_background__1_.xml" value="0.1235" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/drawable/splash.xml" value="0.184" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/activity_splash.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_detailtab_desc.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_detailtab_pricelist.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_main.xml" value="0.11822916666666666" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_product_detail.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_recognize.xml" value="0.23007246376811594" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_search_bar.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_search_result.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/fragment_webview.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/list_item_price.xml" value="0.264" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/list_item_product.xml" value="0.16799999999999998" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/overlay.xml" value="0.1" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/recent_search_row.xml" value="0.1125" />
+        <entry key="..\:/project/graduate/BedRock/app/src/main/res/layout/stack_item_productimage.xml" value="0.10520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BedRock</string>
+    <string name="detail_info">상세 SPEC</string>
+    <string name="price_list">가격정보</string>
+    <string name="app_title">bedrock</string>
+    <string name="main_search_hint">검색어를 입력하세요.</string>
+    <string name="popular_keyword_text">인기 검색어</string>
+    <string name="keyword_info">keyword_info</string>
+    <string name="date_format">yyyy. MM. dd</string>
+    <string name="search_result">검색결과: %1$d개</string>
+</resources>
