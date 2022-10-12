@@ -11,15 +11,12 @@ danawa에서 검색을 자주하는데, 항상 가격 리스트에서 클릭해�
 다나와로부터 대부분의 data를 crawlling해왔고, kakao vision을 사용해서 제품 thumbnail 이미지로부터 가격정보가 있다면 가져오고 또한 제목으로부터도 가격정보가 있다면 반영하여 사전에 표시해주는 식입니다.
 \ \ \
 
-![image](https://user-images.githubusercontent.com/55792553/195434125-a3dae8a7-3001-453c-9b8d-c20f18188115.png)
+![image](https://user-images.githubusercontent.com/55792553/195434125-a3dae8a7-3001-453c-9b8d-c20f18188115.png)        ![image](https://user-images.githubusercontent.com/55792553/195434221-ab2664d2-7793-4341-8ba1-a102d10c5d45.png)
 
 
-splash화면
-
-![image](https://user-images.githubusercontent.com/55792553/195434221-ab2664d2-7793-4341-8ba1-a102d10c5d45.png)
+첫 진입 검색화면                                  splash화면
 
 
-첫 진입 검색화면
 
 ![image](https://user-images.githubusercontent.com/55792553/195434369-3fd0e7fd-c6a6-41e3-ac67-18550f725135.png)
 
